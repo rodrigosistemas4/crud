@@ -3,6 +3,9 @@ Crud em Php para teste de Habilidade.
 
 
 
+O link do sistema rodando:
+https://precardsis.com.br/crud
+
 Estrutura das Tabelas de Banco de Dados:
 
 CREATE TABLE `financeiro` (
